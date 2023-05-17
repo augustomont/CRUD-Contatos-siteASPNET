@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cliente\\Desktop\\Programação\\c#\\cursos\\youtube\\crisTech\\siteASPNET\\Cadastro Contatos\\Cadastro Contatos\\Cadastro Contatos.csproj",
-      "projectName": "Cadastro Contatos",
-      "projectPath": "C:\\Users\\cliente\\Desktop\\Programação\\c#\\cursos\\youtube\\crisTech\\siteASPNET\\Cadastro Contatos\\Cadastro Contatos\\Cadastro Contatos.csproj",
+      "projectUniqueName": "C:\\Users\\cliente\\Desktop\\Programação\\c#\\cursos\\youtube\\crisTech\\siteASPNET\\Cadastro Contatos\\Cadastro Contatos\\CadastroContatos.csproj",
+      "projectName": "CadastroContatos",
+      "projectPath": "C:\\Users\\cliente\\Desktop\\Programação\\c#\\cursos\\youtube\\crisTech\\siteASPNET\\Cadastro Contatos\\Cadastro Contatos\\CadastroContatos.csproj",
       "packagesPath": "C:\\Users\\cliente\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\cliente\\Desktop\\Programação\\c#\\cursos\\youtube\\crisTech\\siteASPNET\\Cadastro Contatos\\Cadastro Contatos\\obj\\",
       "projectStyle": "PackageReference",
