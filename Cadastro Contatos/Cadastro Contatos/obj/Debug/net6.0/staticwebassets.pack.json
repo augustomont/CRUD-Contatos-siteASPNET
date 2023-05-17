@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\cliente\\Desktop\\Programação\\c#\\cursos\\youtube\\crisTech\\siteASPNET\\Cadastro Contatos\\Cadastro Contatos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Cadastro Contatos.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Cadastro Contatos.bundle.scp.css"
+      "Id": "C:\\Users\\cliente\\Desktop\\Programação\\c#\\cursos\\youtube\\crisTech\\siteASPNET\\Cadastro Contatos\\Cadastro Contatos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CadastroContatos.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CadastroContatos.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\cliente\\Desktop\\Programação\\c#\\cursos\\youtube\\crisTech\\siteASPNET\\Cadastro Contatos\\Cadastro Contatos\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Cadastro Contatos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CadastroContatos.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Cadastro Contatos.props",
-      "PackagePath": "build\\Cadastro Contatos.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CadastroContatos.props",
+      "PackagePath": "build\\CadastroContatos.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Cadastro Contatos.props",
-      "PackagePath": "buildMultiTargeting\\Cadastro Contatos.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CadastroContatos.props",
+      "PackagePath": "buildMultiTargeting\\CadastroContatos.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Cadastro Contatos.props",
-      "PackagePath": "buildTransitive\\Cadastro Contatos.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CadastroContatos.props",
+      "PackagePath": "buildTransitive\\CadastroContatos.props"
     }
   ],
   "ElementsToRemove": []
