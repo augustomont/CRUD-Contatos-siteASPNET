@@ -1,0 +1,31 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\bin\Debug\net6.0\appsettings.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\bin\Debug\net6.0\Cadastro Contatos.staticwebassets.runtime.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\bin\Debug\net6.0\Cadastro Contatos.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\bin\Debug\net6.0\Cadastro Contatos.deps.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\bin\Debug\net6.0\Cadastro Contatos.runtimeconfig.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\bin\Debug\net6.0\Cadastro Contatos.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\bin\Debug\net6.0\Cadastro Contatos.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\Cadastro Contatos.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\Cadastro Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\Cadastro Contatos.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\Cadastro Contatos.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\Cadastro Contatos.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\Cadastro Contatos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\Cadastro Contatos.RazorAssemblyInfo.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\Cadastro Contatos.RazorAssemblyInfo.cs
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\staticwebassets\msbuild.Cadastro Contatos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\staticwebassets\msbuild.build.Cadastro Contatos.props
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Cadastro Contatos.props
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Cadastro Contatos.props
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\scopedcss\bundle\Cadastro Contatos.styles.css
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\scopedcss\projectbundle\Cadastro Contatos.bundle.scp.css
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\Cadastro Contatos.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\refint\Cadastro Contatos.dll
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\Cadastro Contatos.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\Cadastro Contatos.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\crisTech\siteASPNET\Cadastro Contatos\Cadastro Contatos\obj\Debug\net6.0\ref\Cadastro Contatos.dll
