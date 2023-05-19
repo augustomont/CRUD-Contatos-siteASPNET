@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Cadastro Contatos",
-    "\\Cadastro Contatos\\Cadastro Contatos"
+    "\\Cadastro Contatos\\Cadastro Contatos",
+    "\\Cadastro Contatos\\Cadastro Contatos\\Controllers",
+    "\\Cadastro Contatos\\Cadastro Contatos\\Models",
+    "\\Cadastro Contatos\\Cadastro Contatos\\Views"
   ],
-  "SelectedNode": "\\Cadastro Contatos\\Cadastro Contatos\\appsettings.json",
+  "SelectedNode": "\\Cadastro Contatos\\Cadastro Contatos\\Views\\Contatos",
   "PreviewInSolutionExplorer": false
 }
